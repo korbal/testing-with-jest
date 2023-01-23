@@ -19,5 +19,8 @@
   "homepage": "https://github.com/korbal/testing-with-jest#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.2"
   }
 }
